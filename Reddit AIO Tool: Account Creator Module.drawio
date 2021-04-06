@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T12:26:45.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="PjmEBXhT3u5OcOMW6x8t" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T12:30:53.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="VJK-noDLb9x10c2vrnpw" version="14.5.7" type="github">
   <diagram id="2IHAyBC6-V2in-pEHZSB" name="Page-1">
     <mxGraphModel dx="979" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="0afhDAOQh3jEqX-bZtkd-3" value="START ACCOUNT CREATOR MODULE" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;perimeterSpacing=0;spacing=9;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0afhDAOQh3jEqX-bZtkd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0afhDAOQh3jEqX-bZtkd-4" target="0afhDAOQh3jEqX-bZtkd-20">
+        <mxCell id="0afhDAOQh3jEqX-bZtkd-19" value="Auto select" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0afhDAOQh3jEqX-bZtkd-4" target="0afhDAOQh3jEqX-bZtkd-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="310" as="targetPoint" />
             <Array as="points">
@@ -32,7 +32,7 @@
         <mxCell id="0afhDAOQh3jEqX-bZtkd-5" value="2Captcha API key" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0afhDAOQh3jEqX-bZtkd-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0afhDAOQh3jEqX-bZtkd-10" target="0afhDAOQh3jEqX-bZtkd-11">
+        <mxCell id="0afhDAOQh3jEqX-bZtkd-14" value="Auto select" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0afhDAOQh3jEqX-bZtkd-10" target="0afhDAOQh3jEqX-bZtkd-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0afhDAOQh3jEqX-bZtkd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0afhDAOQh3jEqX-bZtkd-10" target="0afhDAOQh3jEqX-bZtkd-12">
@@ -58,10 +58,11 @@
         <mxCell id="0afhDAOQh3jEqX-bZtkd-12" value="Manual submit" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="200" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0afhDAOQh3jEqX-bZtkd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0afhDAOQh3jEqX-bZtkd-20" target="0afhDAOQh3jEqX-bZtkd-23">
+        <mxCell id="0afhDAOQh3jEqX-bZtkd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="0afhDAOQh3jEqX-bZtkd-20" target="0afhDAOQh3jEqX-bZtkd-23">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="400" />
+              <mxPoint x="240" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -80,14 +81,24 @@
         <mxCell id="0afhDAOQh3jEqX-bZtkd-23" value="Create account @ reddit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="380" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0afhDAOQh3jEqX-bZtkd-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0afhDAOQh3jEqX-bZtkd-26" target="0afhDAOQh3jEqX-bZtkd-31">
+        <mxCell id="0afhDAOQh3jEqX-bZtkd-32" value="Success" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0afhDAOQh3jEqX-bZtkd-26" target="0afhDAOQh3jEqX-bZtkd-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0afhDAOQh3jEqX-bZtkd-26" value="Email verify accounts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="440" width="140" height="40" as="geometry" />
+        <mxCell id="0afhDAOQh3jEqX-bZtkd-33" value="Fail = retry" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="0afhDAOQh3jEqX-bZtkd-26" target="0afhDAOQh3jEqX-bZtkd-26">
+          <mxGeometry x="-0.5833" relative="1" as="geometry">
+            <mxPoint x="160" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="490" />
+              <mxPoint x="220" y="470" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="0afhDAOQh3jEqX-bZtkd-31" value="Verfied account information" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="500" width="140" height="40" as="geometry" />
+        <mxCell id="0afhDAOQh3jEqX-bZtkd-26" value="Email verify accounts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="460" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0afhDAOQh3jEqX-bZtkd-31" value="Output verfied &lt;br&gt;account information" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="540" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
